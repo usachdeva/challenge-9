@@ -22,8 +22,7 @@ const questions = [
         message: `What is your project's name?`,
     },
     {
-        // type: `editor`,
-        type: `input`,
+        type: `editor`,
         name: `description`,
         message: `Please write a short description of your project`,
     },

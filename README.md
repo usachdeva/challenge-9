@@ -3,7 +3,7 @@
 
 ## Description
 
-hello
+this is my readme file for lucido
 
 ## Table of Contents 
 
@@ -49,6 +49,6 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at uditsachdeva5@gmail.com. You can find more of my work at [udit](https://github.com/udit/).
+If you have any questions about the repo, open an issue or contact me directly at uditsachdeva5@gmail.com. You can find more of my work at [usachdeva](https://github.com/usachdeva/).
   
   
